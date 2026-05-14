@@ -1,0 +1,6 @@
+{
+  "name": "NeuralSync",
+  "description": "A futuristic Spaced Repetition Revision Tracker to manage the Forgetting Curve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
